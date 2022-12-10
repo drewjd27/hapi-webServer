@@ -1,0 +1,1 @@
+console.log('Hai, kita akan belajar membuat server menggunakan framework Hapi.')
